@@ -1,4 +1,4 @@
-package tests
+/*package tests
 
 import pageobject.CartPage
 import pageobject.DefaultPage
